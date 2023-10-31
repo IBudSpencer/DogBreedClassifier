@@ -1,3 +1,9 @@
+This repo serves a basis for the Udacity Capstone Dog Breed Classifier in the Data Scientist Nanodegree. A guided medium article how to built the models can be found here:
+
+https://medium.com/@t.pfanzelt/udacity-nanodegree-data-scientist-capstone-project-9e9e0165fa94
+
+
+
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
